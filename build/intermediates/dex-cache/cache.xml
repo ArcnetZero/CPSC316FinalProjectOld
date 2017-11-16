@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Ryan.T/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.7/8a021ba0bb6555c25dfc272697d379215aa05ed1/gdx-1.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a021ba0bb6555c25dfc272697d379215aa05ed1">
+        <dex dex="/Users/Ryan.T/Documents/Classes/Web Appl./FinalProject/CPSC316FinalProject/android/build/intermediates/pre-dexed/debug/gdx-1.9.7_aef8a3a85f1d19ae5f9ca0badab2850533655dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ryan.T/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.7/884a964d5a09643269390bdc4d30fc7bf8b0b9eb/gdx-backend-android-1.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="884a964d5a09643269390bdc4d30fc7bf8b0b9eb">
+        <dex dex="/Users/Ryan.T/Documents/Classes/Web Appl./FinalProject/CPSC316FinalProject/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.7_952d0c150ac705c02023a50bd5ada3c3d6a6daad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ryan.T/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.7/ad5b0c9246497c2141580f26ad82f51ecc9879e5/gdx-box2d-1.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ad5b0c9246497c2141580f26ad82f51ecc9879e5">
+        <dex dex="/Users/Ryan.T/Documents/Classes/Web Appl./FinalProject/CPSC316FinalProject/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.7_13051aecf7cf9ae71ad69548d4f3927d35e73955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ryan.T/Documents/Classes/Web Appl./FinalProject/CPSC316FinalProject/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d1a0902d9b29e6d52c1e03b25a7136a1f9bbfba">
+        <dex dex="/Users/Ryan.T/Documents/Classes/Web Appl./FinalProject/CPSC316FinalProject/android/build/intermediates/pre-dexed/debug/core-1.0_9156f4a9e6b5f3b8700a46de07903606b86c3494.jar" />
+    </item>
+
+</items>
